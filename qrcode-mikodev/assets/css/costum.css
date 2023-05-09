@@ -1,0 +1,15 @@
+/* .loader {
+	width: 30vh;
+	height: 30vh;
+	display: block;
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+	align-items: center;
+	background: url(../img/loader.gif)no-repeat;
+} */
+.loader-div {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
